@@ -1,0 +1,9 @@
+Flask
+matplotlib
+numpy
+opencv_python
+tensorflow
+protobuf
+watchdog
+pillow
+gdown
